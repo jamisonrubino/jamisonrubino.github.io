@@ -1,6 +1,12 @@
 --
 layout: post
-title: My personal projects and goals
+title: My personal projects and ambitions
 --
 
-In grade school, I took an interest in computers, and did the necessary research to build my own desktop by the age of 12. Around the same time, I practiced creative writing, and began looking into basic HTML and CSS to style my own blog. My interest idled for a few years, before picking up again to help my parents cultivate their own online presences and stimulate their businesses. Throughout this process, I acquainted myself with Javascript, PHP and SQL, and settled on the idea of being a professional web developer. After a few years of miscellaneous, collegiate and independent studies and a number of personal site-building projects, I began researching official coding bootcamps. My goal was to find an online program with flexible pacing but a set schedule, and preferable conferences with professors/teachers to keep me focused and timely.
+Over the years, I built a number of personal websites, with content ranging from gaming networking to poetry and prose and to important issues in the news. Finding a way to streamline the expression of ideas has always appealed to me, and web development is a great practice for doing so. Ultimately, for my personal projects, I imagine myself building and managing a forum for people with relevant and interesting ideas to network and comment on where humanity is steering itself, and share information that would help its members grow individually.
+
+One project to fulfill this dream is a glorified link farm, which I hope to one day maintain with the latest information in a number of fields I find relevant and worth supporting, and hope to occasionally post comments on when the content of the news items doesn't fully express my vision.
+
+Another personal project I'm considering, styled after a game introduced by a family member, is a collaborative, turn-based creative writing room in which multiple users anonymously contribute to a piece. If I put this together, I may implement a voting and editing system as well.
+
+My hope in mastering full-stack development mediums is that, when good ideas come to me in the future, I'll be able to easily overcome any obstacles to creation, and be able to facilitate discussion between the intelligent and like-minded.
