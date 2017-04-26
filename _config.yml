@@ -12,10 +12,10 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h1>Designer, Developer, Writer, and Dad.</h1>
+     <h1>Web Developer, Writer, and Student.</h1>
   header_text_feature_image:
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
+   Copyright © 2017 Jamison Rubino
 
   # Icons
   rss: false
