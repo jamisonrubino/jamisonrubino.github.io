@@ -12,10 +12,10 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h1>Full Stack Developer, Writer, and Student.</h1>
+     <h1>Designer, Developer, Writer, and Dad.</h1>
   header_text_feature_image:
   footer_text: >
-   Copyright © 2017 Jamison Rubino
+   Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
 
   # Icons
   rss: false
