@@ -1,6 +1,7 @@
 --
 layout: post
 title: My experience at Bloc
+feature-img: img/sample_feature_img.png
 --
 
 In January, 2017, I took the plunge and committed to Bloc's 27-week, full-stack web development bootcamp.

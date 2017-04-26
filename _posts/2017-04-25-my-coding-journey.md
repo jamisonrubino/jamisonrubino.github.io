@@ -1,6 +1,7 @@
 --
 layout: post
 title: My coding journey
+feature-img: img/sample_feature_img.png
 --
 
 When computers were first popular and affordable, I was in preschool, and took an early interest in computer gaming. In grade school, this interest developed to encompass computer hardware, as a gaming enthusiast with a grade schooler's budget, and by the age of 12, I did the necessary research to build my own desktop. Around the same time, I practiced creative writing, and began looking into basic HTML and CSS to style my own blog, as well as an amateur gaming website that never quite came to fruition.
