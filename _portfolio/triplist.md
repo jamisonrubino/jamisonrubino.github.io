@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Triplist
-feature-img: "img/triplist-home.jpg"
+feature-img: "img/sample_feature_img.png"
 thumbnail-path: "img/triplist-home.jpg"
 short-description: Use Triplist to make the perfect Spotify playlist for your roadtrip.
 
